@@ -1,6 +1,6 @@
-# BUSHED
+# Bushed
 
-##### What's BUSHED :
+##### What's Bushed :
 
     BUSHED is the IdName generator for the biggest size data compilation :
 
