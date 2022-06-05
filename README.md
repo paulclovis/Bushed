@@ -1,6 +1,6 @@
-# BUSHID
+# BUSHED
 
-##### What's BUSHID :
+##### What's BUSHED :
 
     BUSHID is the IdName generator for the biggest size data compilation :
 
