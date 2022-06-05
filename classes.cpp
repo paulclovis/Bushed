@@ -7,6 +7,5 @@
 classes::classes() = default;
 
 std::string classes::makeuserID(classes *class1) {
-    class1->IdUsers= strtof32(name,"MONSIEUR");
     return {};
 }
