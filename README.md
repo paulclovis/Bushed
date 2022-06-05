@@ -2,7 +2,7 @@
 
 ##### What's BUSHED :
 
-    BUSHID is the IdName generator for the biggest size data compilation :
+    BUSHED is the IdName generator for the biggest size data compilation :
 
 -------------------------------------------------  
     
