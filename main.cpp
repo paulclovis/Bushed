@@ -6,5 +6,6 @@
 #include <iostream>
 
 int main(int argc,char **argv){
+
     std::cout<<"Merci pour des nouvelles"<<std::endl;
 }
