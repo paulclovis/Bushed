@@ -5,6 +5,8 @@
     BUSHID is the IdName generator for the biggest size data compilation :
 
 -------------------------------------------------  
+    
+For this kind of DataBase Table .
 
 | USERID  | Name      | Surname       | Age | Industry             |
 |---------|-----------|---------------|-----|----------------------|
@@ -14,8 +16,10 @@
 
 ```json
 {
-"USERID": "UI123-9",
+"USERID": "UI1239",
 "Name": "Smith",
-"age": 25
+"surname": "anderson",
+"age": 25,
+  "Industry": "Software Developer"
 }
 ```
